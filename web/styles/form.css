@@ -1,0 +1,59 @@
+#form {
+  margin-top: 64px;
+  display: flex;
+  gap: 12px;
+}
+
+#form > input {
+  height: 48px;
+  width: 450px;
+  border: none;
+  color: #fff;
+  background: #202024;
+  border-radius: 5px;
+  padding: 0 12px;
+  font-style: 16px;
+}
+
+#form > input:focus {
+  outline: 2px solid #8257e5;
+}
+
+#form > input:valid {
+  background: #202024;
+}
+
+#form > button {
+  height: 48px;
+  width: 48px;
+  border: none;
+  background: #8257e5;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background 0.2s;
+}
+
+#form > button:hover {
+  background: #633bbc;
+}
+
+#form > button i {
+  font-size: 20px;
+  color: #fff;
+}
+
+#app > h2 {
+  align-self: flex-start;
+  margin-top: 104px;
+}
+
+#app > p {
+  align-self: flex-start;
+  text-align: justify;
+  width: 512px;
+}
+
+#app .summary {
+  color: #7c7c8a;
+  user-select: none;
+}
