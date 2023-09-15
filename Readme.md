@@ -9,7 +9,7 @@
 <h1 align="center" style="color:#8257e6">Short Summary</h1>
 
 <div align="center">
-  <!-- <video src=""></video> -->
+  <video src="https://github.com/MichelleCordeiro/nlw-ia-foundations/assets/42891377/a332e7ea-6d38-4340-b00c-39704159196e"></video>
 </div>
 <br><br>
 
@@ -18,20 +18,22 @@
 
 &emsp; &emsp; Aplicação web que cria **resumo de vídeos shorts do Youtube**, transcreve e resume o conteúdo do vídeo utilizandois modelos de IA (o **Whisper** para extrair texto do áudio e o **Bart** para resumir o conteúdo), desenvolvida na NLW IA (trilha Foundations) da  <a href="https://www.rocketseat.com.br/">RocketSeat</a>.
 
+You can test it here [deploy](https://nlw-ia-foundations-gamma.vercel.app/)
+
 <br>
 
 <!-- Tools used -->
 <h3> 🚀 Tecnologias </h3>
 
 <p>
-<code><img height="50" width='50' src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML">HTML</code>
+<code><img height="50" width='50' src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML"> HTML</code>
 <code><img height="50" width='50' src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS">CSS </code>
-<code><img height="35" width='35' src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript">JavaScript</code>
-<code><img height="60" width='60' src="https://i.postimg.cc/qqhV91YY/node.png" alt="Node"> Node </code>
-<code><img height="80" width='80' src="https://i.postimg.cc/CdTt9SbB/express2.png"
-alt="ExpressJS">ExpressJS</code>
-  <code><img height="35" width='35' alt="vs code logo" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">VS Code</code>
-    <code><img height="33" width='33' alt="figma logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>Figma</code>
+<code><img height="35" width='35' src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript"> JS </code>
+<code><img height="45" width='45' src="https://i.postimg.cc/qqhV91YY/node.png" alt="Node"> NodeJS </code>
+<code><img height="25" width='50' src="https://i.postimg.cc/CdTt9SbB/express2.png" alt="ExpressJS"> ExpressJS</code>
+<code><img height="40" width='60' alt="whisper IA logo" src="https://i.postimg.cc/1XR56KcM/whisper-IA.png"/> Whisper IA</code>
+<code><img height="35" width='55' alt="bard IA logo" src="https://i.postimg.cc/cCWtzY78/Bard-AI.png"/> Bard IA</code>
+<code><img height="35" width='35' alt="vs code logo" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"> VS Code</code>
 </p>
 
 <br>
