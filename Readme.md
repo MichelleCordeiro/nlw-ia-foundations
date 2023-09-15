@@ -18,7 +18,7 @@
 
 &emsp; &emsp; Aplicação web que cria **resumo de vídeos shorts do Youtube**, transcreve e resume o conteúdo do vídeo utilizandois modelos de IA (o **Whisper** para extrair texto do áudio e o **Bart** para resumir o conteúdo), desenvolvida na NLW IA (trilha Foundations) da  <a href="https://www.rocketseat.com.br/">RocketSeat</a>.
 
-You can test it here [deploy](https://nlw-ia-foundations-gamma.vercel.app/)
+<!--You can test it here [deploy](https://nlw-ia-foundations-gamma.vercel.app/)-->
 
 <br>
 
@@ -30,9 +30,9 @@ You can test it here [deploy](https://nlw-ia-foundations-gamma.vercel.app/)
 <code><img height="50" width='50' src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS">CSS </code>
 <code><img height="35" width='35' src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript"> JS </code>
 <code><img height="45" width='45' src="https://i.postimg.cc/qqhV91YY/node.png" alt="Node"> NodeJS </code>
-<code><img height="25" width='50' src="https://i.postimg.cc/CdTt9SbB/express2.png" alt="ExpressJS"> ExpressJS</code>
+<code><img height="25" width='60' src="https://i.postimg.cc/Cx8JnyMh/expressjs.png" alt="ExpressJS"> ExpressJS</code>
 <code><img height="40" width='60' alt="whisper IA logo" src="https://i.postimg.cc/1XR56KcM/whisper-IA.png"/> Whisper IA</code>
-<code><img height="35" width='55' alt="bard IA logo" src="https://i.postimg.cc/cCWtzY78/Bard-AI.png"/> Bard IA</code>
+<code><img height="37" width='52' alt="bard IA logo" src="https://i.postimg.cc/cCWtzY78/Bard-AI.png"/> Bard IA</code>
 <code><img height="35" width='35' alt="vs code logo" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"> VS Code</code>
 </p>
 
